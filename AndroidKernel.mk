@@ -1,4 +1,4 @@
-#Android makefile to build kernel as a part of Android Build
+# Android makefile to build kernel as a part of Android Build (FDR)
 PERL		= perl
 
 KERNEL_TARGET := $(strip $(INSTALLED_KERNEL_TARGET))
